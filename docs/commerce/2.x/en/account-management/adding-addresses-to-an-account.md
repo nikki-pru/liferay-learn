@@ -11,7 +11,7 @@ This article documents how to update an account's billing and shipping addresses
     ![Viewing the Addresses Tab](./adding-addresses-to-an-account/images/01.png)
 
 1. Click the _Add Address_ button.
-1. Click either _Shipping_ or _Billing_ radio button.
+1. Select either _Shipping_ or _Billing_.
 1. Fill out the fields.
 
     ![Adding a New Shipping Address](./adding-addresses-to-an-account/images/02.png)
